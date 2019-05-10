@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "name": "Captain Marvel",
+      "image": "marvel.jpg"
+
+    },
+
+    {
+        "id": 2,
+        "name": "Endgame",
+        "image": "endgame.jpg"
+
+    },
+    {
+        "id": 3,
+        "name": "Aladdin",
+        "image": "aladdin.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Artic",
+        "image": "artic.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "Gemeni Man",
+        "image": "gemeni.jpg"
+
+    },
+    {
+        "id": 6,
+        "name": "Glass",
+        "image": "glass.jpg"
+
+    },
+    {
+        "id": 7,
+        "name": "Hellboy",
+        "image": "hellboy.jpg"
+
+    },
+    {
+        "id": 8,
+        "name": "Hollywood",
+        "image": "hollywood.jpg"
+
+    },
+    {
+        "id": 9,
+        "name": "Infinity Wars",
+        "image": "infinity.jpg"
+
+    },
+    {
+        "id": 10,
+        "name": "Pet Sematary",
+        "image": "petsematary.jpg"
+
+    },
+    {
+        "id": 11,
+        "name": "Shazaam",
+        "image": "shazaam.jpg"
+
+    },
+    {
+        "id": 12,
+        "name": "Silence",
+        "image": "silence.jpg"
+
+    }
+
+]
